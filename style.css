@@ -1,0 +1,10 @@
+.center {
+    margin: auto;
+    width: 60%;
+    border: 5px solid #55553a;
+    padding: 10px;
+}
+
+.text-center {
+    text-align: center;
+}
